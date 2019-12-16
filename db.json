@@ -1,0 +1,96 @@
+{
+  "tipoPessoa": [
+    {
+      "id": 2,
+      "descricao": "Empresa"
+    },
+    {
+      "id": 3,
+      "descricao": "Cliente"
+    },
+    {
+      "id": 4,
+      "descricao": "Fornecedor"
+    },
+    {
+      "id": 5,
+      "descricao": "Prestador de Serviço"
+    },
+    {
+      "id": 6,
+      "descricao": "Funcionário"
+    },
+    {
+      "id": 7,
+      "descricao": "Freelancer"
+    }
+  ],
+  "categoriaCentrosCusto": [
+    {
+      "id": 4,
+      "categoria": "Finanças"
+    },
+    {
+      "id": 5,
+      "categoria": "Administração"
+    },
+    {
+      "id": 6,
+      "categoria": "Financeiro"
+    },
+    {
+      "id": 7,
+      "categoria": "Vendas"
+    },
+    {
+      "id": 8,
+      "categoria": "Teste"
+    }
+  ],
+  "centroCusto": [
+    {
+      "id": 1,
+      "nome": "Financeiro",
+      "responsavel": "José Soler",
+      "telefone": "17996545835",
+      "categoria": "Vendas",
+      "idCategoriaCentroCusto": 7
+    },
+    {
+      "id": 2,
+      "nome": "Administração",
+      "responsavel": "Carlos",
+      "telefone": "(17) 99999-9999",
+      "categoria": 7
+    },
+    {
+      "id": 3,
+      "nome": "Vendas",
+      "responsavel": "Carlos",
+      "telefone": "",
+      "categoria": "Vendas"
+    }
+  ],
+  "contaBancaria": [
+    {
+      "id": 1,
+      "nome": "Conta Caixa",
+      "empresa": "José Soler",
+      "tipoConta": "Conta Corrente",
+      "banco": "Caixa Econômica Federal",
+      "agencia": "353-0",
+      "conta": "4887-3",
+      "observacoes": "aisuhd aiushdiauhs diauh diauh diuah diuha dhasd"
+    },
+    {
+      "id": 2,
+      "nome": "Banco do Brasil - Evelyn",
+      "empresa": "ZC Sistemas",
+      "tipoConta": "Conta Corrente",
+      "banco": "Banco do Brasil",
+      "agencia": "6869-0",
+      "conta": "17079-2",
+      "observacoes": null
+    }
+  ]
+}
